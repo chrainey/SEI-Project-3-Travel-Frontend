@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.register-Form {
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+.form-wrapper {
+  display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+
+.nav-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.destination-row {
+  display: flex;
+  flex-wrap: wrap;
+}
